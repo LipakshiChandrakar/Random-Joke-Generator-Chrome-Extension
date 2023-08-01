@@ -1,0 +1,20 @@
+body{
+    width: 350px;
+    height: 150px;
+    background-color: #ffffc5;
+    display: flex;
+    justify-content:center;
+}
+
+p{
+    display: inner-flex;
+    margin: auto 10px;
+    font-size: 18px;
+    color: burlywood;
+    font-style:normal;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight:bold;
+    border-radius:5px;
+    border: 1px solid burlywood;
+    padding:10px;
+}
